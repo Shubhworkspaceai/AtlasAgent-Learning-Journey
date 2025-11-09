@@ -1,0 +1,3 @@
+Day 1: Setup and foundational scripts completed.
+Files: 01_hello_atlas.py, 02_variables_basics.py, 03_bmi_calculator.py, 04_drug_info.py, interaction_checker.py, app.py, data/drug_interactions.csv
+Status: Streamlit demo running locally. Repo pushed to GitHub.
