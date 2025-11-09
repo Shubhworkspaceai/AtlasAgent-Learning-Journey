@@ -1,0 +1,6 @@
+drug_a,drug_b,interaction_level,evidence,notes
+warfarin,aspirin,high,"meta-analysis,PMID:xxxx","Additive bleeding risk; monitor INR"
+warfarin,ibuprofen,high,"case series,PMID:yyyy","NSAIDs increase bleeding with warfarin"
+aspirin,ibuprofen,moderate,"review,PMID:zzzz","Increased GI bleeding risk; avoid if possible"
+ibuprofen,metformin,none,,"No known clinical interaction"
+paracetamol (acetaminophen),warfarin,moderate,"case reports","May increase INR in rare cases"
