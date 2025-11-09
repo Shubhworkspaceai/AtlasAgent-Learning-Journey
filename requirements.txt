@@ -1,6 +1,7 @@
 streamlit
-sentence-transformers
-chromadb
 neo4j
+chromadb
+sentence-transformers
 scispacy
 spacy
+pytest

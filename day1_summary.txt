@@ -1,3 +1,12 @@
-Day 1: Setup and foundational scripts completed.
-Files: 01_hello_atlas.py, 02_variables_basics.py, 03_bmi_calculator.py, 04_drug_info.py, interaction_checker.py, app.py, data/drug_interactions.csv
-Status: Streamlit demo running locally. Repo pushed to GitHub.
+Day 1 Summary — AtlasAgent Learning Journey
+--------------------------------------------
+✅ Environment setup (Python, venv, pip)
+✅ Basic Python programs (variables, BMI, data handling)
+✅ CSV-driven drug interaction checker (CLI)
+✅ Unit testing & bug fixes
+✅ GitHub repo pushed and Streamlit app running
+
+Next goals (Day 2):
+- Lists, loops, and data structures
+- Refactor interaction checker into class-based system
+- Begin RAG architecture overview
