@@ -11,3 +11,5 @@ This repo is part of a step-by-step learning path to build a production-grade RA
 - Run the interaction checker CLI: `python3 interaction_checker.py`
 - Run the Streamlit demo: `streamlit run app.py`
 
+Built a prototype “AtlasAgent” medical research assistant: CSV-backed drug interaction lookup (CLI + Streamlit UI), analyzer producing raw + weighted charts, unit tests and CI — focused on reproducibility and explainability.
+
