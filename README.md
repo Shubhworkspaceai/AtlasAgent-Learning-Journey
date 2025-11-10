@@ -1,3 +1,6 @@
+[![Python CI](https://github.com/Shubhworkspaceai/AtlasAgent-Learning-Journey/actions/workflows/python-app.yml/badge.svg)](https://github.com/Shubhworkspaceai/AtlasAgent-Learning-Journey/actions/workflows/python-app.yml) 
+[![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE) 
+
 # AtlasAgent Learning Journey — Day 1
 
 Small starter repository for **AtlasAgent v3**.  
