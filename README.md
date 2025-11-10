@@ -6,6 +6,7 @@
 Small starter repository for **AtlasAgent v3**.  
 Day 1 contains Python basics, a BMI calculator, and a drug-interaction checker demo (CSV-driven).  
 This repo is part of a step-by-step learning path to build a production-grade RAG + causal-verifier medical AI.
+**Prototype:** A modular, reproducible medical AI assistant — CLI + Streamlit UI + Analyzer with raw & weighted interaction scoring.
 
 ## Quick demo
 - Run the interaction checker CLI: `python3 interaction_checker.py`
@@ -13,3 +14,9 @@ This repo is part of a step-by-step learning path to build a production-grade RA
 
 Built a prototype “AtlasAgent” medical research assistant: CSV-backed drug interaction lookup (CLI + Streamlit UI), analyzer producing raw + weighted charts, unit tests and CI — focused on reproducibility and explainability.
 
+[![Python CI](https://github.com/Shubhworkspaceai/AtlasAgent-Learning-Journey/actions/workflows/python-app.yml/badge.svg)](https://github.com/Shubhworkspaceai/AtlasAgent-Learning-Journey/actions/workflows/python-app.yml)
+[![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
+
+python3 -m venv .venv
+source .venv/bin/activate
+pip install -r requirements.txt
